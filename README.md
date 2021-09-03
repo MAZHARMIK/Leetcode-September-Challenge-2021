@@ -21,5 +21,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Unique%20Binary%20Search%20Trees%20II.cpp"><img src="https://d33wubrfki0l68.cloudfront.net/6d4ad943adcadb78e60e53b38a36dc96f7f8100d/a6187/img/bst.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Unique Binary Search Trees II</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Erect%20The%20Fence.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jarvis_algorithm2.svg/1200px-Jarvis_algorithm2.svg.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
