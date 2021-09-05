@@ -26,5 +26,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Erect%20The%20Fence.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jarvis_algorithm2.svg/1200px-Jarvis_algorithm2.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Sum of Distances in Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Sum%20of%20Distances%20in%20Tree.cpp"><img src="https://www.crazyforcode.com/wp-content/uploads/2016/04/DFS.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
