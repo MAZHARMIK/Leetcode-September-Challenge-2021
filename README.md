@@ -36,5 +36,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Orderly%20Queue.cpp"><img src="https://www.tensator.com/wp-content/uploads/people-queuing-scaled.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Slowest Key</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Slowest%20Key.cpp"><img src="https://www.keyboardco.com/product-images/big_multi_colour_keys_lower_case_keyboard_large.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
