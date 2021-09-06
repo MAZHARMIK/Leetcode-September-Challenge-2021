@@ -31,5 +31,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Sum%20of%20Distances%20in%20Tree.cpp"><img src="https://www.crazyforcode.com/wp-content/uploads/2016/04/DFS.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Orderly Queue</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Orderly%20Queue.cpp"><img src="https://www.tensator.com/wp-content/uploads/people-queuing-scaled.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
