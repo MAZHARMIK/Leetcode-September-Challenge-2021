@@ -46,5 +46,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Reverse%20Linked%20List.cpp"><img src="https://appdividend.com/wp-content/uploads/2019/07/LinkedList-in-Java.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Shifting Letters</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Shifting%20Letters.cpp"><img src="https://www.braingle.com/brainteasers/codes/images/ascii.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
