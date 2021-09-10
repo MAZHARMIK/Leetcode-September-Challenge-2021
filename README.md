@@ -51,5 +51,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Shifting%20Letters.cpp"><img src="https://www.braingle.com/brainteasers/codes/images/ascii.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>SLargest Plus Sign</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Largest%20Plus%20Sign.cpp"><img src="http://atlas-content-cdn.pixelsquid.com/stock-images/red-rounded-plus-sign-AENw0y9-600.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
