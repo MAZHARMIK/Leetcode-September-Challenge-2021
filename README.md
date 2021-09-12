@@ -66,5 +66,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Basic%20Calculator.cpp"><img src="https://androidcommunity.com/wp-content/uploads/2016/02/featured-stack.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Reachable Nodes In Subdivided Graph</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Reachable%20Nodes%20In%20Subdivided%20Graph.cpp"><img src="https://i.stack.imgur.com/7Tssz.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
