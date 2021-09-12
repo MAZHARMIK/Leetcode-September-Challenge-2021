@@ -61,5 +61,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Arithmetic%20Slices%20II%20-%20Subsequence.cpp"><img src="https://image.slidesharecdn.com/arithmeticprogression-introduction-140827003802-phpapp01/95/arithmetic-progression-introduction-to-arithmetic-progressions-for-class-10-maths-1-638.jpg?cb=1505285584" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Basic Calculator</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Basic%20Calculator.cpp"><img src="https://androidcommunity.com/wp-content/uploads/2016/02/featured-stack.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
