@@ -71,5 +71,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Reachable%20Nodes%20In%20Subdivided%20Graph.cpp"><img src="https://i.stack.imgur.com/7Tssz.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Maximum Number of Balloons</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Maximum%20Number%20of%20Balloons.cpp"><img src="https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2018/04/1000_Balloons_Web-0005.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
