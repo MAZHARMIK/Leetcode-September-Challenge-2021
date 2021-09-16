@@ -82,8 +82,13 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
 			  </td>
 			</tr>
 			<tr>
-			  <td>Longest Turbulent Subarray.</td>
+			  <td>Longest Turbulent Subarray</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Turbulent%20Subarray.cpp"><img src="https://clipground.com/images/zig-zag-logo-clipart-9.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Spiral Matrix</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Spiral%20Matrix.cpp"><img src="https://images.wallpaperscraft.com/image/spiral_glow_multicolored_143997_1920x1080.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
 		</tbody>
