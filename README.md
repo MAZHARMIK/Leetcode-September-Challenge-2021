@@ -91,5 +91,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Spiral%20Matrix.cpp"><img src="https://images.wallpaperscraft.com/image/spiral_glow_multicolored_143997_1920x1080.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Intersection of Two Arrays II</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Intersection%20of%20Two%20Arrays%20II.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Set_intersection.svg/800px-Set_intersection.svg.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
