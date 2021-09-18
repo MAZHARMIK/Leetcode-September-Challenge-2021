@@ -96,5 +96,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Intersection%20of%20Two%20Arrays%20II.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Set_intersection.svg/800px-Set_intersection.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Expression Add Operators</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Expression%20Add%20Operators.cpp"><img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/what-is-backtracking-banner-f50177b744971af3.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
