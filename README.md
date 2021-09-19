@@ -101,5 +101,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Expression%20Add%20Operators.cpp"><img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/what-is-backtracking-banner-f50177b744971af3.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Distinct Subsequences</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Distinct%20Subsequences.cpp"><img src="https://cloud.fullstackacademy.com/Dynamic-Programming-1.png?mtime=20170421143551" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
