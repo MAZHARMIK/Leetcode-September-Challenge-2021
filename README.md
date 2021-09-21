@@ -111,5 +111,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1200px-Tic_tac_toe.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Max Consecutive Ones</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Max%20Consecutive%20Ones.cpp"><img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/what-is-the-two-pointer-technique-banner-a210899999802dce.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
