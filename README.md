@@ -112,8 +112,8 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
 			  </td>
 			</tr>
 			<tr>
-			  <td>Max Consecutive Ones</td>
-        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Max%20Consecutive%20Ones.cpp"><img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/what-is-the-two-pointer-technique-banner-a210899999802dce.png" width="400" height="240"></a>
+			  <td>Maximum Length of a Concatenated String with Unique Characters</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Recursion/Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.cpp"><img src="https://miro.medium.com/max/1104/1*__jhoWXEa_INM44V5jx30w.jpeg" width="400" height="240"></a>
 			  </td>
 			</tr>
 		</tbody>
