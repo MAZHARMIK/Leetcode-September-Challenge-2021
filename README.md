@@ -121,5 +121,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Break%20a%20Palindrome.cpp"><img src="http://3.bp.blogspot.com/-7CehUw_0JpI/T60Ro5XUyHI/AAAAAAAAALk/-PEadcffvt4/s1600/palindrome2.gif" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>N-th Tribonacci Number</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/N-th%20Tribonacci%20Number.cpp"><img src="https://www.johncanessa.com/wp-content/uploads/2020/09/tribonacci_sequence-300x160.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
