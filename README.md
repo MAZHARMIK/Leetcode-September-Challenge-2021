@@ -131,5 +131,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination%20%20Solution.cpp"><img src="https://image.slidesharecdn.com/bfs-fifo-150614064621-lva1-app6891/95/bfs-graph-algorithm-12-638.jpg?cb=1434355900" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Transform to Chessboard</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Transform%20to%20Chessboard.cpp"><img src="https://www.mancomun.gal/wp-content/uploads/2020/04/Matrix_solTIC.jpeg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
