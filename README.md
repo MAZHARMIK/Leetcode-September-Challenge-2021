@@ -136,5 +136,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Transform%20to%20Chessboard.cpp"><img src="https://www.mancomun.gal/wp-content/uploads/2020/04/Matrix_solTIC.jpeg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Unique Email Addresses</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-September-Challenge-2021/blob/main/Unique%20Email%20Addresses.cpp"><img src="https://i.ytimg.com/vi/zs26gIGhEFk/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
