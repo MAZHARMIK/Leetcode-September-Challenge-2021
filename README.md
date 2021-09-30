@@ -151,5 +151,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/septe
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Split%20Linked%20List%20in%20Parts.cpp"><img src="https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Partition to K Equal Sum Subsets</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Partition%20to%20K%20Equal%20Sum%20Subsets.cpp"><img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/what-is-backtracking-banner-f50177b744971af3.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
